@@ -1,4 +1,8 @@
 # Cat_Segmentation
+
+АВТОР  Mazepov Sergey Mazepov = ЧУДЕСНАЯ  РАБОТА!!!
+https://github.com/Mazepov/Cat_Segmentation/blob/main/README.md 
+
 Sematic segmentation based on U-Net architecture
 
 Разработка модели сематнической сегментации на основе U-Net архитектуры.
